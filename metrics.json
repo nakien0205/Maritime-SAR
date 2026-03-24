@@ -1,0 +1,8 @@
+{
+  "device": "cuda:0",
+  "map50": 0.8360486788378586,
+  "map50_95": 0.39466111055579806,
+  "precision": 0.8642385380572809,
+  "recall": 0.8309043764587865,
+  "val_run_dir": "D:\\Python\\Projects\\Community\\School\\DAT\\SeaDroneSee\\analysis_outputs\\val_fixed_best_pt"
+}
