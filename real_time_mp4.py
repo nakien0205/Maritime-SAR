@@ -6,7 +6,6 @@ model = YOLO(r"D:\Python\Projects\Community\School\DAT\SeaDroneSee\best.pt")
 
 # Open video source (0 for webcam or "path/to/video.mp4")
 results = model.track(source=r"D:\Python\Projects\Community\School\DAT\SeaDroneSee\test.mp4", stream=True, tracker="bytetrack.yaml")
-
 for r in results:
     img = r.orig_img
     

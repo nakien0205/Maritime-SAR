@@ -1,0 +1,7 @@
+path: D:\Python\Projects\Maritime-SAR\data_sahi
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: ignored
+  1: swimmer

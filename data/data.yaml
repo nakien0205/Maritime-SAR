@@ -1,7 +1,0 @@
-path: D:\Python\Projects\Community\School\DAT\SeaDroneSee\data
-train: train/images
-val: val/images
-
-names:
-  0: ignored
-  1: human
